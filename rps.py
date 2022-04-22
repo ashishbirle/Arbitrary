@@ -1,3 +1,5 @@
+#The following code can be treated as a Python beginner project
+
 import random
 
 def play():
